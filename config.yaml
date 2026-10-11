@@ -1,7 +1,7 @@
 # GitHubPoster 多邻国配置
 data_sources:
   - name: "duolingo"
-    user_id: "你的多邻国用户名"
+    user_id: "ph.xyyYBX"
     # 可选：只抓取你学的语言，不填默认全部
     # lang: "zh"
 
