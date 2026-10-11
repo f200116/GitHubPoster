@@ -1,0 +1,14 @@
+# GitHubPoster 多邻国配置
+data_sources:
+  - name: "duolingo"
+    user_id: "你的多邻国用户名"
+    # 可选：只抓取你学的语言，不填默认全部
+    # lang: "zh"
+
+# 海报样式
+poster:
+  width: 800
+  height: 400
+  background_color: "#ffffff"
+  font_color: "#333333"
+  title: "我的多邻国打卡"
